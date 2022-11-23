@@ -1,0 +1,186 @@
+body {
+	background-image: url(../Vehicle_System/Images/bugatti.jpg);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+	
+	
+	background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bod
+ {
+
+    
+    color: #fff;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+	background-image: url(../Vehicle_System/Images/bugatti.jpg);
+	
+	
+ }
+
+*{
+	font-family: sans-serif;
+	box-sizing: border-box;
+	color: #fff;
+	
+	
+
+}
+
+form {
+	width: 500px;
+	border: 2px solid #ccc;
+	padding: 30px;
+	background-color: rgb(243, 244, 247);
+	border-radius: 15px;
+	
+}
+
+h2 {
+	text-align: center;
+	margin-bottom: 40px;
+	color: #fff;
+}
+
+input {
+	display: block;
+	border: 2px solid #ccc;
+	width: 95%;
+	padding: 10px;
+	margin: 10px auto;
+	border-radius: 5px;
+	color: #000000;
+	
+}
+label {
+	color: rgb(255, 255, 255);
+	font-size: 18px;
+	padding: 10px;
+}
+
+
+button:hover{
+	opacity: .7;
+}
+.error {
+   background: #F2DEDE;
+   color: #232480;
+   padding: 10px;
+   width: 95%;
+   border-radius: 5px;
+   margin: 20px auto;
+}
+
+.success {
+   background: #D4EDDA;
+   color: #40754C;
+   padding: 10px;
+   width: 95%;
+   border-radius: 5px;
+   margin: 20px auto;
+}
+
+h1 {
+	text-align: center;
+	color: #fff;
+
+}
+
+.ca {
+	font-size: 14px;
+	display: inline-block;
+	padding: 10px;
+	text-decoration: none;
+	color: rgb(255, 255, 255);
+}
+.ca:hover {
+	text-decoration: underline;
+} 
+
+
+
+.btn{
+    background: none;
+    border: 2px solid white;
+    font-family: "montserrat",sans-serif;
+    text-transform: uppercase;
+    padding: 12px 20px;
+    min-width: 200px;
+    margin: 10px;
+    cursor: pointer;
+    transition: color 0.4s linear;
+	text-align: center;
+	align-items: center;
+
+    }
+
+	#tbl
+
+	{
+		background-color: rgb(11, 172, 212);
+		color: rgba(28, 190, 90, 0.582);
+		padding-left: 10px;
+		padding-right: 10px;
+		padding-top: 10px;
+		padding-bottom:10px ;
+		text-align: center;
+
+	}
+
+	#bod
+	{
+		background-color: rgb(215, 255, 196);
+		background-position: center;
+ 		 background-repeat: no-repeat;
+ 		 background-size: cover;
+	
+		background-image: url(../Vehicle_System/Images/lamborghini.jpg);
+		
+		 
+
+	}
+
+.B_account
+{
+
+	color: white;
+}
+
+.btn0
+{
+	
+	color: white;
+}
+
+.drop_dwn
+{
+	text-align: center;
+
+	
+}
+
+.table
+{
+	text-align: center;
+	
+}
+
+.heading
+{
+	margin-top: 10px;
+	
+}
+
+.vehicle_type
+{
+	padding: 10px
+}

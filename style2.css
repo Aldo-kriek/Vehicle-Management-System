@@ -1,0 +1,88 @@
+.bod
+ {
+
+    
+	background-image: url(../Vehicle_System/Images/bugatti.jpg);
+    color: #fff;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+
+ }
+
+
+
+form {
+	width: 500px;
+	border: 2px solid #ccc;
+	padding: 30px;
+	background: rgb(207, 21, 21);
+	border-radius: 15px;
+    background: rgba(20, 106, 156, 0.438);
+	
+}
+
+
+
+
+label {
+	color: rgb(255, 255, 255);
+	font-size: 18px;
+	padding: 10px;
+}
+
+button {
+	float: right;
+	background: #555;
+	padding: 10px 15px;
+	color: #fff;
+	border-radius: 5px;
+	margin-right: 10px;
+	border: none;
+    color: #fff;
+}
+button:hover{
+	opacity: .7;
+}
+
+
+
+
+.btn{
+    
+    border: 2px solid white;
+    font-family: "montserrat",sans-serif;
+    text-transform: uppercase;
+    padding: 12px 20px;
+    min-width: 200px;
+    margin: 10px;
+    cursor: pointer;
+    transition: color 0.4s linear;
+	text-align: center;
+
+    }
+
+    #bod
+    {
+
+        background-color: aquamarine;
+		
+		background-position: center;
+ 	 	background-repeat: no-repeat;
+  	background-size: cover;
+	text-align: center;
+    }
+
+
+.cont2
+{
+	margin: auto;
+
+padding: 10px;
+}
+
